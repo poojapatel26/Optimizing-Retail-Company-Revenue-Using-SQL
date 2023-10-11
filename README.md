@@ -11,13 +11,13 @@ In this project, i’ll will work with numeric, string, and timestamp data on pr
 ## SQL FUNCTION :
 SQL functions that I used in this project:
 
-* Aggregate functions: These functions facilitate the calculation of values across multiple rows of data, including operations like sum, average, and count.
-* Date functions: These functions provide the means to manipulate and extract information from date columns within the database.
-* Join functions: These functions empower me to merge data from different tables based on shared columns.
-* Union functions: These functions permit the merging of outcomes from various queries into a single result set.
-* CTE (Common Table Expression): This function empowers me to establish a temporary result set within a SELECT statement.
-* Subqueries: These represent SELECT statements executed within another SELECT statement.
-* Window functions: These functions empower me to conduct calculations across a group of rows.
+* **Aggregate functions:** These functions facilitate the calculation of values across multiple rows of data, including operations like sum, average, and count.
+* **Date functions:** These functions provide the means to manipulate and extract information from date columns within the database.
+* **Join functions:** These functions empower me to merge data from different tables based on shared columns.
+* **Union functions:** These functions permit the merging of outcomes from various queries into a single result set.
+* **CTE (Common Table Expression):** This function empowers me to establish a temporary result set within a SELECT statement.
+* **Subqueries:** These represent SELECT statements executed within another SELECT statement.
+* **Window functions:** These functions empower me to conduct calculations across a group of rows.
 
 ## Analysis & Insights 
 
